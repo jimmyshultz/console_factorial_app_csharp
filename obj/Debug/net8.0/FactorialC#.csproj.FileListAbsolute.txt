@@ -1,0 +1,14 @@
+/Users/jimmyshultz/Desktop/Merrimack/CSC6303/week1/FactorialC#/bin/Debug/net8.0/FactorialC#
+/Users/jimmyshultz/Desktop/Merrimack/CSC6303/week1/FactorialC#/bin/Debug/net8.0/FactorialC#.deps.json
+/Users/jimmyshultz/Desktop/Merrimack/CSC6303/week1/FactorialC#/bin/Debug/net8.0/FactorialC#.runtimeconfig.json
+/Users/jimmyshultz/Desktop/Merrimack/CSC6303/week1/FactorialC#/bin/Debug/net8.0/FactorialC#.dll
+/Users/jimmyshultz/Desktop/Merrimack/CSC6303/week1/FactorialC#/bin/Debug/net8.0/FactorialC#.pdb
+/Users/jimmyshultz/Desktop/Merrimack/CSC6303/week1/FactorialC#/obj/Debug/net8.0/FactorialC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jimmyshultz/Desktop/Merrimack/CSC6303/week1/FactorialC#/obj/Debug/net8.0/FactorialC#.AssemblyInfoInputs.cache
+/Users/jimmyshultz/Desktop/Merrimack/CSC6303/week1/FactorialC#/obj/Debug/net8.0/FactorialC#.AssemblyInfo.cs
+/Users/jimmyshultz/Desktop/Merrimack/CSC6303/week1/FactorialC#/obj/Debug/net8.0/FactorialC#.csproj.CoreCompileInputs.cache
+/Users/jimmyshultz/Desktop/Merrimack/CSC6303/week1/FactorialC#/obj/Debug/net8.0/FactorialC#.dll
+/Users/jimmyshultz/Desktop/Merrimack/CSC6303/week1/FactorialC#/obj/Debug/net8.0/refint/FactorialC#.dll
+/Users/jimmyshultz/Desktop/Merrimack/CSC6303/week1/FactorialC#/obj/Debug/net8.0/FactorialC#.pdb
+/Users/jimmyshultz/Desktop/Merrimack/CSC6303/week1/FactorialC#/obj/Debug/net8.0/FactorialC#.genruntimeconfig.cache
+/Users/jimmyshultz/Desktop/Merrimack/CSC6303/week1/FactorialC#/obj/Debug/net8.0/ref/FactorialC#.dll
