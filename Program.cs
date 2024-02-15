@@ -2,6 +2,9 @@
 
 /// <summary>
 /// This program tells the user the factorial of a number they provide.
+/// Written in C# using VSCode and the C# Dev Kit.  
+/// .NET SDK was installed on Mac using 'brew install dotnet'.
+/// By Jimmy Shultz - 1/20/2024
 /// </summary>
 class Program
 {

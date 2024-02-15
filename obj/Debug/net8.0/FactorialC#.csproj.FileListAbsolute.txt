@@ -12,3 +12,4 @@
 /Users/jimmyshultz/Desktop/Merrimack/CSC6303/week1/FactorialC#/obj/Debug/net8.0/FactorialC#.pdb
 /Users/jimmyshultz/Desktop/Merrimack/CSC6303/week1/FactorialC#/obj/Debug/net8.0/FactorialC#.genruntimeconfig.cache
 /Users/jimmyshultz/Desktop/Merrimack/CSC6303/week1/FactorialC#/obj/Debug/net8.0/ref/FactorialC#.dll
+/Users/jimmyshultz/Desktop/Merrimack/CSC6303/week1/FactorialC#/obj/Debug/net8.0/FactorialC#.sourcelink.json

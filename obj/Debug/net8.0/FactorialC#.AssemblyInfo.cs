@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FactorialC#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86b55c0ca949dc27d7fba6697f6549d016eaff67")]
 [assembly: System.Reflection.AssemblyProductAttribute("FactorialC#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FactorialC#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
